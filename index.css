@@ -1,0 +1,37 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(78, 58, 58);
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+
+h1 {
+    color: rgba(130, 219, 113, 0.767);
+}
+#message-el {
+    font-style: oblique;
+}
+button{
+    color: rgb(78, 58, 58);
+    width: 150px;
+    background: rgba(130, 219, 113, 0.767);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    font-size: large;
+    border: none;
+    display: block;
+    margin: auto;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    
+
+}
+button:hover{
+    background-color: aliceblue;
+   
+}
